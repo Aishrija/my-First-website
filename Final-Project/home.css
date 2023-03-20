@@ -1,0 +1,21 @@
+@font-face {
+   font-family: Fasthand-regular;
+   src: url(./Fasthand-Regular.ttf);
+}
+h2 {
+   font-family: "Fasthand-Regular";
+}
+
+ body {
+   background-image: url(./images/210.jpg);
+   font-family: cursive;
+ }
+ #topics {
+   border: 1px solid black;
+   display: flex;
+   align-items: center;
+   margin: 10px;
+   padding: 10px;
+   
+}
+
